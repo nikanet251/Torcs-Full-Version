@@ -241,4 +241,4 @@ This repository serves as the official landing page for Torcs. The software is d
 **Get the most recent version of Torcs today!**
 
 ---
-**Last updated:** 2026-09-20 10:32:09 UTC
+**Last updated:** 2026-09-20 14:27:29 UTC
